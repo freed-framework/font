@@ -22,7 +22,7 @@ function Font(props) {
 
     return (
         React.createElement('span', {
-            className: classnames('icon-' + type, className),
+            className: classnames('icon-font', 'icon-' + type, className),
             style: parseStyle(props)
         })
     )
