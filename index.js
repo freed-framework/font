@@ -1,4 +1,4 @@
-import Font from './font';
-import './icomoon/style.css';
+var Font = require('./lib/font');
+requir('./icomoon/style.css')
 
-export default Font;
+module.exports = Font;
