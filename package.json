@@ -1,6 +1,6 @@
 {
   "name": "font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "图标字体",
   "main": "index.js",
   "scripts": {
